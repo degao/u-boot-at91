@@ -99,7 +99,7 @@
  */
 #define CONFIG_NR_DRAM_BANKS		1
 #define CONFIG_SYS_SDRAM_BASE		ATMEL_BASE_CS1
-#define CONFIG_SYS_SDRAM_SIZE		0x04000000
+#define CONFIG_SYS_SDRAM_SIZE		0x02000000
 
 /*
  * Initial stack pointer: 4k - GENERATED_GBL_DATA_SIZE in internal SRAM,
